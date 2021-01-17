@@ -1,6 +1,6 @@
 # CustomerX.i_Restaurant_Customer_Analytics
 
-##Context
+## Context
 
 This project is leveraged excel tool to design a model that assign customer from restaurant in different group(platinum,silver, gold, bronze) 
 
