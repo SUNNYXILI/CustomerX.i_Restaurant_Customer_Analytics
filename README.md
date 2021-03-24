@@ -8,6 +8,6 @@ Please open the excel to find the detail
 
 After segmentation, we are able to use classifier(decision tree) to help company target high-quality customers. 
 
-KPMG-virtual-intern-machinelearning Repository can show the similar code to you(https://github.com/whlx228/KPMG-virtual-intern-machinelearning.git). 
+KPMG-virtual-intern-machinelearning Repository can show the similar code to you(https://github.com/sunnyxili/KPMG-virtual-intern-machinelearning.git). 
 
 
